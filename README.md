@@ -1,6 +1,6 @@
 # photodollar-web
 
-[a link](https://photodollar.in)
+[photodollar](https://photodollar.in)
 
 PhotoDollar enables you to request images/videos from anyone on photoDollar network.
 
@@ -13,4 +13,4 @@ Features
 > follow users to get notifications on their requests, look at their responses
 > be a part of the welcoming community, help photodollar keep a tab on bad content.
 
-[a link](https://photodollar.in)
+[photodollar](https://photodollar.in)
