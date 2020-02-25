@@ -2,15 +2,28 @@
 
 [photodollar](https://photodollar.in)
 
-PhotoDollar enables you to request images/videos from anyone on photoDollar network.
+Create and share photos, videos or stories requests across the globe
 
-You can connect with a family of shutterbugs, ask them for photo or video updates on anything you
-wish.
-Features
-> Create your profile
-> place photo or video request on photoDollar network; get tons of responses
-> respond to photoRequests or videoRequests in real time
-> follow users to get notifications on their requests, look at their responses
-> be a part of the welcoming community, help photodollar keep a tab on bad content.
+Start by creating a story/video/photo request on photoDollar network; get tons of responses and share it with everyone.
+
+Respond to stories/photos /video requests in real-time
+
+Follow users to watch their stories/photos/videos.
+
+Be a part of the open social community and help photodollar keep a tab on bad content.
+
+Get all local/global information about new or upcoming products.
+
+Take advice and recommendations from people who know the area and have similar tastes.
+
+Thinking about buying a product and confused about it just post a new request and get help.
+
+Watch stories what others have created
+
+Create and share Stories photos videos around the world
+
+Upvote, downvote stories, and other people's responses.
+
+Photodollar is built for everyone and we want to make it useful for everyone.
 
 [photodollar](https://photodollar.in)
