@@ -1,6 +1,6 @@
 # photodollar-web
 
-[photodollar website](https://photodollar.in)
+[website](https://photodollar.in)
 
 [Download App](https://play.google.com/store/apps/details?id=app.photodollar.web&hl=en_IN)
 
@@ -28,6 +28,6 @@ Upvote, downvote stories, and other people's responses.
 
 Photodollar is built for everyone and we want to make it useful for everyone.
 
-[photodollar website](https://photodollar.in)
+[website](https://photodollar.in)
 
 [Download App](https://play.google.com/store/apps/details?id=app.photodollar.web&hl=en_IN)
