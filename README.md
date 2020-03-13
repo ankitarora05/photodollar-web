@@ -1,6 +1,7 @@
 # photodollar-web
 
 [photodollar website](https://photodollar.in)
+
 [Download App](https://play.google.com/store/apps/details?id=app.photodollar.web&hl=en_IN)
 
 Create and share photos, videos or stories requests across the globe
@@ -28,4 +29,5 @@ Upvote, downvote stories, and other people's responses.
 Photodollar is built for everyone and we want to make it useful for everyone.
 
 [photodollar website](https://photodollar.in)
+
 [Download App](https://play.google.com/store/apps/details?id=app.photodollar.web&hl=en_IN)
